@@ -1,0 +1,3 @@
+# https://wingless-seraph.net/
+Footstep-high.wav -> fs0.wav
+Footstep-low.wav  -> fs1.wav
